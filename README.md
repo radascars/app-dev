@@ -2,8 +2,8 @@
 My first  repository
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Earl Jerome",
+  "lastName": "Adonay",
+  "age": 20
 }
 ```
